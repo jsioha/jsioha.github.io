@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://jsioha.github.io/ias/sitemap.ias.gz
